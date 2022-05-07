@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate about Data from Morocco</h3>
 
-- 🔭 I’m currently working on internship at (green energy parak)
+- 🔭 I’m currently working on internship at [green energy parak](http://www.greenenergypark.ma/)
 
 - 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with [test](test)
 
 - 👨‍💻 All of my projects are available at [github.com/hassanoubrahim](github.com/hassanoubrahim)
 
