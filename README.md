@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently data science studentu at [Mohammed VI Polytechnic University](http://www.um6p.ma/)
 
-- 🌱 I’m currently learning **\big Data**
+- 🌱 I’m currently learning **big Data**
 
 - 👨‍💻 All of my projects are available at [github.com/hassanoubrahim](github.com/hassanoubrahim)
 
