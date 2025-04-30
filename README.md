@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
 <h3 align="center">A passionate about Data from Morocco</h3>
 
-- 🔭 I’m currently data science studentu at [Mohammed VI Polytechnic University](http://www.um6p.ma/)
+- 🔭  I have no idea what i am doing!
+
 
 - 🌱 I’m currently learning **big Data**
 
